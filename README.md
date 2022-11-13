@@ -100,7 +100,7 @@ Creating the environment is done exactly as one would create a Gym environment:
 
 ```python
 import gym
-import robootic_warehouse
+import robotic_warehouse
 env = gym.make("rware-tiny-2ag-v1")
 ```
 
